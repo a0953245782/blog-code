@@ -1,0 +1,37 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.chenym.greeter.autoconfigure.GreeterProperties",
+      "name": "baeldung.greeter",
+      "type": "com.chenym.greeter.autoconfigure.GreeterProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.chenym.greeter.autoconfigure.GreeterProperties",
+      "name": "baeldung.greeter.afternoon-message",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.chenym.greeter.autoconfigure.GreeterProperties",
+      "name": "baeldung.greeter.evening-message",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.chenym.greeter.autoconfigure.GreeterProperties",
+      "name": "baeldung.greeter.morning-message",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.chenym.greeter.autoconfigure.GreeterProperties",
+      "name": "baeldung.greeter.night-message",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.chenym.greeter.autoconfigure.GreeterProperties",
+      "name": "baeldung.greeter.user-name",
+      "type": "java.lang.String"
+    }
+  ]
+}
